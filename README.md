@@ -1,6 +1,7 @@
 # Employee-Time-Sheet
 Takes user input to add/create a new employee and stores it within Google Firebase.
-This program was created to further understand the Firebase and how to incorporate it into future projects as backend.
+
+This program was created to further understand Firebase and how to incorporate it into future projects as backend.
 
 Technologies used:
 * HTML
